@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Luis Felipe!
 
-<!--
-**luisboaventura/luisboaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **pós-graduação em Engenharia de Software**.
 
-Here are some ideas to get you started:
+🚀 Tenho foco em **Front-end e Full Stack**, desenvolvendo projetos práticos e funcionais com **HTML, CSS e JavaScript**, sempre buscando evoluir a qualidade do código, organização e boas práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Acredito que a melhor forma de evoluir como desenvolvedor é construindo projetos reais e resolvendo problemas de verdade.
+
+🌎 Objetivo: consolidar minha carreira como desenvolvedor e futuramente atuar no mercado internacional, especialmente no **Canadá 🇨🇦**.
+
+---
+
+## 🛠️ Tecnologias:
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+
+---
+
+## 📌 Projetos em destaque:
+
+- 📦 **Sistema de Controle de Estoque Web**  
+  Sistema para gerenciamento de produtos, entradas, saídas e dashboard administrativo.
+
+---
+
+## 📈 Atualmente estudando:
+
+- Engenharia de Software aplicada à prática  
+- JavaScript avançado  
+- Front-end moderno  
+- Back-end para me tornar Full Stack  
+
+---
+
+## 💡 Mentalidade:
+
+> "Código bom é código que resolve problemas reais."
