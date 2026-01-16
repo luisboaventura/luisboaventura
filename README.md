@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **pós-graduação em Engenharia de Software**.
 
-🚀 Tenho foco em **Front-end e Full Stack**, desenvolvendo projetos práticos e funcionais com **HTML, CSS e JavaScript**, sempre buscando evoluir a qualidade do código, organização e boas práticas.
+🚀 Atuo principalmente com **Front-end** e estou em **evolução para Full Stack**, desenvolvendo projetos práticos e funcionais com **HTML, CSS e JavaScript**, sempre buscando evoluir a qualidade do código, organização e boas práticas.
 
 📚 Acredito que a melhor forma de evoluir como desenvolvedor é construindo projetos reais e resolvendo problemas de verdade.
 
