@@ -32,9 +32,3 @@
 - JavaScript avançado  
 - Front-end moderno  
 - Back-end para me tornar Full Stack  
-
----
-
-## 💡 Mentalidade:
-
-> "Código bom é código que resolve problemas reais."
