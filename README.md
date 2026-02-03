@@ -1,34 +1,48 @@
-# 👋 Olá, eu sou Luis Felipe!
+👋 Olá, eu sou Luis Felipe!
 
-💻 Desenvolvedor formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **pós-graduação em Engenharia de Software**.
+💻 Desenvolvedor formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Engenharia de Software.
 
-🚀 Atuo principalmente com **Front-end** e estou em **evolução para Full Stack**, desenvolvendo projetos práticos e funcionais com **HTML, CSS e JavaScript**, sempre buscando evoluir a qualidade do código, organização e boas práticas.
+🚀 Atuo com desenvolvimento Back-end em JavaScript, utilizando Node.js para criação de aplicações e lógica de negócio, com experiência em controle de dados, regras de negócio e versionamento de código. Possuo base em Front-end, o que contribui para uma visão mais completa das aplicações.
 
-📚 Acredito que a melhor forma de evoluir como desenvolvedor é construindo projetos reais e resolvendo problemas de verdade.
+📚 Acredito que a melhor forma de evoluir como desenvolvedor é construindo projetos reais, resolvendo problemas práticos e aplicando boas práticas de desenvolvimento.
 
-🌎 Objetivo: consolidar minha carreira como desenvolvedor e futuramente atuar no mercado internacional, especialmente no **Canadá 🇨🇦**.
+🌎 Objetivo: ingressar profissionalmente como Desenvolvedor Júnior, com foco em Back-end JavaScript / Node.js, e evoluir na carreira para atuar no mercado internacional, especialmente no Canadá 🇨🇦.
 
----
+🛠️ Tecnologias:
 
-## 🛠️ Tecnologias:
+JavaScript (ES6+)
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
+Node.js
 
----
+Git & GitHub
 
-## 📌 Projetos em destaque:
+HTML5
 
-- 📦 **Sistema de Controle de Estoque Web**  
-  Sistema para gerenciamento de produtos, entradas, saídas e dashboard administrativo.
+CSS3
 
----
+React (básico)
 
-## 📈 Atualmente estudando:
+📌 Projetos em destaque:
 
-- Engenharia de Software aplicada à prática  
-- JavaScript avançado  
-- Front-end moderno  
-- Back-end para me tornar Full Stack  
+📦 Sistema de Controle de Estoque
+Aplicação desenvolvida em JavaScript com foco em back-end, contendo:
+
+CRUD de produtos
+
+Controle de entrada e saída de estoque
+
+Lógica de atualização automática de quantidades
+
+Organização das regras de negócio
+
+Versionamento com Git e GitHub
+
+📈 Atualmente estudando:
+
+Back-end com JavaScript e Node.js
+
+Desenvolvimento de APIs
+
+Boas práticas e organização de código
+
+Engenharia de Software aplicada à prática
