@@ -6,7 +6,7 @@
 
 📚 Acredito que a melhor forma de evoluir como desenvolvedor é construindo projetos reais, resolvendo problemas práticos e aplicando boas práticas de desenvolvimento.
 
-🌎 Objetivo: ingressar profissionalmente como Desenvolvedor Júnior, com foco em Back-end JavaScript / Node.js, e evoluir na carreira para atuar no mercado internacional, especialmente no Canadá 🇨🇦.
+🌎 Objetivo: ingressar profissionalmente como Desenvolvedor Júnior, com foco em Back-end JavaScript / Node.js, e evoluir na carreira para atuar no mercado internacional.
 
 ## 🛠️ Tecnologias
 
